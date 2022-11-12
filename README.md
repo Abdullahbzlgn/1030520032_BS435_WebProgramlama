@@ -1,1 +1,3 @@
-# 1030520032_BS435_WebProgramlama
+1030520032
+Abdullah Bozlağan
+BS 435 Web Programlama
